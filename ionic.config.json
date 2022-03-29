@@ -1,0 +1,7 @@
+{
+  "name": "ecifm-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
