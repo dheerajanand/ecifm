@@ -1,0 +1,54 @@
+.ion-toolbar {
+  --background: #263147;
+  color: #fff;
+}
+ion-icon {
+  fill: #263147;
+}
+.ion-row-links {
+  ion-col {
+    text-align: center;
+    padding: 1.5rem;
+    > div {
+      color: #666666;
+      font-size: 0.8rem;
+    }
+  }
+  ion-icon {
+    width: 36px;
+    height: 36px;
+  }
+  .ion-label {
+    font-size: 0.85rem;
+  }
+}
+.ion-grid-panel {
+  ion-col {
+    padding: 1rem;
+    > div {
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    > p {
+      font-size: 0.85rem;
+    }
+    ion-icon {
+      width: 36px;
+      height: 36px;
+    }
+  }
+}
+
+.ion-item {
+  font-weight: 600;
+  font-size: 1.25rem;
+
+  img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+  }
+  & ion-label {
+    color: #666666;
+  }
+}
