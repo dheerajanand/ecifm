@@ -15,8 +15,8 @@ Developed markup for Mobile View - Portrait and landscape
     - src\app\tab1\tab1.page.scss
 
 ## Web App rendeing
-### Portrait View
+### Portrait View:
 ![alt text](src/assets/images/portrait.png)
 
-### Landscape View
+### Landscape View:
 ![alt text](src/assets/images/landscape.png)
